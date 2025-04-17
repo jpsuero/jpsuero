@@ -1,11 +1,11 @@
-- 👋 Hi, I’m John Suero, student at NJIT pursuing IT with a specialization in Game Devlopment.
-- 👀 I’m interested in game programming, engine building and game design.
-- 🌱 Game dev courses taken: Game Architecture and Design, Game Mod Development, 2D Game Programming, 3D Game Programming and Game Design for XR.
-- 💞️ I’m looking to be part of a team that leaves a lasting impact.
-- 📫 How to reach me :
-- email: jps64@njit.edu
-- phone: 9082481965
-- twitter: @jpsuero
+👨‍💻 Software Engineer | IT Grad from NJIT | Game Dev Enthusiast
+Currently working as a software engineer, building real-world applications and sharpening my skills across the stack. My background includes a specialization in game development—and while I’m not building games full-time (yet), I still dive into game projects and prototypes when I can.
+
+🛠️ Experienced with [your tech stack—e.g., JavaScript, Python, React, etc.]</br>
+🎮 Love exploring game engines like Unity and messing with mechanics and design</br>
+💡 Passionate about clean code, clever solutions, and creating things that people actually enjoy using</br>
+**Also: certified geek for comics, movies, and all things games.**
+
 
 <!---
 jpsuero/jpsuero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
